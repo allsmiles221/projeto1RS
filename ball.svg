@@ -1,0 +1,29 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="orange-circle" cx="0" cy="0" r="50" fill="orange" />
+    </defs>
+    <g transform="translate(100,0)">
+        <use xlink:href="#orange-circle" y="100" />
+        <use xlink:href="#orange-circle" y="200" />
+        <use xlink:href="#orange-circle" y="300"/>
+        <use xlink:href="#orange-circle" y="400" />
+    </g>
+    <g transform="translate(200,0)">
+        <use xlink:href="#orange-circle" y="100" />
+        <use xlink:href="#orange-circle" y="200" />
+        <use xlink:href="#orange-circle" y="300" />
+        <use xlink:href="#orange-circle" y="400" />
+    </g>
+    <g transform="translate(300,0)">
+        <use xlink:href="#orange-circle" y="100" />
+        <use xlink:href="#orange-circle" y="200" />
+        <use xlink:href="#orange-circle" y="300" />
+        <use xlink:href="#orange-circle" y="400" />
+    </g>
+    <g transform="translate(400,0)">
+        <use xlink:href="#orange-circle" y="100" />
+        <use xlink:href="#orange-circle" y="200" />
+        <use xlink:href="#orange-circle" y="300" />
+        <use xlink:href="#orange-circle" y="400" />
+    </g>
+</svg>
